@@ -25,7 +25,7 @@ a:hover {color: #800000;}
 }
 
 .logo{margin-top:10px;float:left;margin-right: 10px;}
-.logo img {width:140px;}
+.logo img {width:350;}
 .orgname{position: relative;top:15px;margin-bottom: 40px;text-align: left;margin-right:20px;float:left;width: 650px;}
 #content{
     padding: 10px;
@@ -40,6 +40,19 @@ a:hover {color: #800000;}
     font-weight: bold;
     font-size:18px;
     color:#599126;text-decoration: underline;
+	position: absolute;
+	top: 750px;
+    left: auto;
+	
+}
+.vopname1{
+    font-weight: bold;
+    font-size:18px;
+    color:#599126;text-decoration: underline;
+	position: absolute;
+	top: 775px;
+    left: auto;
+	
 }
 #footer{
     padding: 10px;
