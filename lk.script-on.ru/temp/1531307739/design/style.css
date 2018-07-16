@@ -40,18 +40,9 @@ a:hover {color: #800000;}
     font-weight: bold;
     font-size:18px;
     color:#599126;text-decoration: underline;
-	position: absolute;
-	top: 750px;
-    left: auto;
+	left: auto;
 	
 }
-.vopname1{
-    font-weight: bold;
-    font-size:18px;
-    color:#599126;text-decoration: underline;
-	position: absolute;
-	top: 775px;
-    left: auto;
 	
 }
 #footer{
